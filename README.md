@@ -2,6 +2,17 @@
 
 This is still under construction! 🚧🏗
 
+# Meine Projekte
+
+> Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
+
+## .Files
+
+[.Files >>](https://github.com/Lukas412/.files)
+
+Mein Projekt in dem ich die Dotfiles speichere, um sie in allen Entwicklungsumgebungen synchron und einheitlich zu halten.
+
+
 <!--
 **Lukas412/Lukas412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
