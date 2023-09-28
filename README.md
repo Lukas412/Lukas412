@@ -4,7 +4,7 @@ This is still under construction! 🚧🏗
 
 # Meine Projekte
 
-> Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
+Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 
 ## .Files
 
