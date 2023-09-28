@@ -8,7 +8,7 @@ This is still under construction! 🚧🏗
 
 ## .Files
 
-[.Files >>](https://github.com/Lukas412/.files)
+[Zum Projekt >>](https://github.com/Lukas412/.files)
 
 Mein Projekt in dem ich die Dotfiles speichere, um sie in allen Entwicklungsumgebungen synchron und einheitlich zu halten.
 
