@@ -6,9 +6,7 @@ This is still under construction! 🚧🏗
 
 Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 
-## .Files
-
-[Zum Projekt >>](https://github.com/Lukas412/.files)
+## [.Files](https://github.com/Lukas412/.files)
 
 Mein Projekt in dem ich die Dotfiles speichere, um sie in allen Entwicklungsumgebungen synchron und einheitlich zu halten.
 
