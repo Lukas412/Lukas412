@@ -6,9 +6,15 @@ This is still under construction! 🚧🏗
 
 Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 
-## [.Files](https://github.com/Lukas412/.files)
+## [.files](https://github.com/Lukas412/.files)
 
 Mein Projekt in dem ich die Dotfiles speichere, um sie in allen Entwicklungsumgebungen synchron und einheitlich zu halten.
+
+# Spaß Projekte
+
+## [CsFlash](https://github.com/Lukas412/CsFlash)
+
+Ein kleines Rust Programm, das in CsGo eine Flash-Bang detektiert. Es drückt die `F13` Taste während die Flash-Bang aktiv ist um andere Aktionen am Computer und Hardware auszulösen.
 
 
 <!--
