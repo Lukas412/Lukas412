@@ -12,7 +12,7 @@ Mein Projekt in dem ich die Dotfiles speichere, um sie in allen Entwicklungsumge
 
 # Spaß Projekte
 
-## [CsFlash](https://github.com/Lukas412/CsFlash)
+## [cs_flash](https://github.com/Lukas412/cs_flash)
 
 Ein kleines Rust Programm, das in CsGo eine Flash-Bang detektiert. Es drückt die `F13` Taste während die Flash-Bang aktiv ist um andere Aktionen am Computer und Hardware auszulösen.
 
