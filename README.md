@@ -11,13 +11,13 @@ Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 Mein Projekt in dem ich die Dotfiles speichere,
 um sie in allen Entwicklungsumgebungen synchron und einheitlich zu halten.
 
-[Repository >>](https://github.com/Lukas412/.files)
-
 - NeoVim
 - IdeaVim
 - Bash
 - Zsh
 - Tmux
+
+[Repository >>](https://github.com/Lukas412/.files)
 
 ### EvenPw
 
@@ -29,11 +29,11 @@ Generiere Passwörter, die leichter zu tippen sind.
 
 Mein NeoVim Plugin, um Notizen zu erstellen.
 
-- [NeoVim Plugin Repository >>](https://github.com/lukas412/scatternotes.nvim)
-- [Cli Repository >>](https://github.com/lukas412/scatternotes)
-
 Das Plugin erlaubt es unsortierte Notizen zu erstellen und
 diese anhand von Tags zu suchen.
+
+- [NeoVim Plugin Repository >>](https://github.com/lukas412/scatternotes.nvim)
+- [Cli Repository >>](https://github.com/lukas412/scatternotes)
 
 ## Spaß Projekte
 
