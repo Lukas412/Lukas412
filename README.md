@@ -81,3 +81,9 @@ Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 > Aufgabe effizienter zu implementieren.
 > 
 > [Repository >>](https://github.com/Lukas412/cotton_ball_game)
+
+> **Calc**
+> 
+> Eine Cli Applikation, um kleine mathematische Anweisungen effizient auszuwerten.
+> 
+> [Repository >>](https://github.com/Lukas412/calc)
