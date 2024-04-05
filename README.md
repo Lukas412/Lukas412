@@ -28,8 +28,8 @@ Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 > Das Plugin erlaubt es unsortierte Notizen zu erstellen und
 > diese anhand von Tags zu suchen.
 > 
-> - [NeoVim Plugin Repository >>](https://github.com/lukas412/scatternotes.nvim)
-> - [Cli Repository >>](https://github.com/lukas412/scatternotes)
+> [NeoVim Plugin Repository >>](https://github.com/lukas412/scatternotes.nvim)\
+> [Cli Repository >>](https://github.com/lukas412/scatternotes)
 
 > **EvenPw**
 > 
@@ -45,7 +45,7 @@ Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 >
 > Die Advent Of Code Aufgaben von 2022 implementiert in Go.
 >
-> [Website >>](https://adventofcode.com/2022)
+> [Website >>](https://adventofcode.com/2022)\
 > [Repository >>](https://github.com/Lukas412/advent_of_code_2022)
 
 ### Zig
@@ -54,7 +54,7 @@ Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 > 
 > Eine Implementation von Conway's Game Of Life in Zig.
 > 
-> [Wikipedia >>](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+> [Wikipedia >>](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)\
 > [Repository >>](https://github.com/Lukas412/GameOfLifeZig)
 
 ## Spaß Projekte
