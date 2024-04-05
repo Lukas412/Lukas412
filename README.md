@@ -6,18 +6,18 @@ This is still under construction! 🚧🏗
 
 Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 
-### .Files
-
-Mein Projekt in dem ich die Dotfiles speichere,
-um sie in allen Entwicklungsumgebungen synchron und einheitlich zu halten.
-
-- NeoVim
-- IdeaVim
-- Bash
-- Zsh
-- Tmux
-
-[Repository >>](https://github.com/Lukas412/.files)
+> **.Files**
+>
+> Mein Projekt in dem ich die Dotfiles speichere,
+> um sie in allen Entwicklungsumgebungen synchron und einheitlich zu halten.
+>
+> - NeoVim
+> - IdeaVim
+> - Bash
+> - Zsh
+> - Tmux
+>
+> [Repository >>](https://github.com/Lukas412/.files)
 
 ### EvenPw
 
@@ -34,6 +34,16 @@ diese anhand von Tags zu suchen.
 
 - [NeoVim Plugin Repository >>](https://github.com/lukas412/scatternotes.nvim)
 - [Cli Repository >>](https://github.com/lukas412/scatternotes)
+
+## Neue Sprachen Lernen
+
+### Go
+
+- [Advent Of Code Repository >>](https://github.com/Lukas412/advent_of_code_2022)
+
+### Zig
+
+- [Game Of Life Repository >>]
 
 ## Spaß Projekte
 
