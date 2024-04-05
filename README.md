@@ -6,6 +6,8 @@ This is still under construction! 🚧🏗
 
 Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 
+## Meine Entwicklungsumgebung
+
 > **.Files**
 >
 > Mein Projekt in dem ich die Dotfiles speichere,
@@ -19,31 +21,41 @@ Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 >
 > [Repository >>](https://github.com/Lukas412/.files)
 
-### EvenPw
+> **EvenPw**
+> 
+> Generiere Passwörter, die leichter zu tippen sind.
+> 
+> [Repository >>](https://github.com/lukas412/evenpw)
 
-Generiere Passwörter, die leichter zu tippen sind.
-
-[Repository >>](https://github.com/lukas412/evenpw)
-
-### Scatternotes
-
-Mein NeoVim Plugin, um Notizen zu erstellen.
-
-Das Plugin erlaubt es unsortierte Notizen zu erstellen und
-diese anhand von Tags zu suchen.
-
-- [NeoVim Plugin Repository >>](https://github.com/lukas412/scatternotes.nvim)
-- [Cli Repository >>](https://github.com/lukas412/scatternotes)
+> **Scatternotes**
+> 
+> Mein NeoVim Plugin, um Notizen zu erstellen.
+> 
+> Das Plugin erlaubt es unsortierte Notizen zu erstellen und
+> diese anhand von Tags zu suchen.
+> 
+> - [NeoVim Plugin Repository >>](https://github.com/lukas412/scatternotes.nvim)
+> - [Cli Repository >>](https://github.com/lukas412/scatternotes)
 
 ## Neue Sprachen Lernen
 
 ### Go
 
-- [Advent Of Code Repository >>](https://github.com/Lukas412/advent_of_code_2022)
+> **Advent Of Code 2022**
+>
+> Die Advent Of Code Aufgaben von 2022 implementiert in Go.
+>
+> [Website >>](https://adventofcode.com/2022)
+> [Repository >>](https://github.com/Lukas412/advent_of_code_2022)
 
 ### Zig
 
-- [Game Of Life Repository >>]
+**Game Of Life**
+
+Eine Implementation von Conway's Game Of Life in Zig.
+
+[Wikipedia >>](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+[Repository >>](https://github.com/Lukas412/GameOfLifeZig)
 
 ## Spaß Projekte
 
