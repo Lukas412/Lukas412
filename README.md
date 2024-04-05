@@ -67,3 +67,9 @@ Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 > 
 > [Repository >>](https://github.com/Lukas412/cs_flash)
 
+> **Cotton Ball Game**
+> 
+> Ein kleines Rust Skript, um die im Youtube Video gezeigte Aufgabe
+> effizienter zu implementieren.
+> 
+> [Repository >>](https://github.com/Lukas412/cotton_ball_game)
