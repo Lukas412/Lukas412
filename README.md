@@ -21,12 +21,6 @@ Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 >
 > [Repository >>](https://github.com/Lukas412/.files)
 
-> **EvenPw**
-> 
-> Generiere Passwörter, die leichter zu tippen sind.
-> 
-> [Repository >>](https://github.com/lukas412/evenpw)
-
 > **Scatternotes**
 > 
 > Mein NeoVim Plugin, um Notizen zu erstellen.
@@ -36,6 +30,12 @@ Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 > 
 > - [NeoVim Plugin Repository >>](https://github.com/lukas412/scatternotes.nvim)
 > - [Cli Repository >>](https://github.com/lukas412/scatternotes)
+
+> **EvenPw**
+> 
+> Generiere Passwörter, die leichter zu tippen sind.
+> 
+> [Repository >>](https://github.com/lukas412/evenpw)
 
 ## Neue Sprachen Lernen
 
