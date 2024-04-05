@@ -87,3 +87,9 @@ Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 > Eine Cli Applikation, um kleine mathematische Anweisungen effizient auszuwerten.
 > 
 > [Repository >>](https://github.com/Lukas412/calc)
+
+> **Soma Cube**
+> 
+> Ein Rust Program, um den Soma Cube zu brute-forcen.
+> 
+> [Repository >>](https://github.com/Lukas412/cube)
