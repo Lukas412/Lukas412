@@ -69,7 +69,8 @@ Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 
 > **Cotton Ball Game**
 > 
-> Ein kleines Rust Skript, um die im Youtube Video gezeigte Aufgabe
-> effizienter zu implementieren.
+> Ein kleines Rust Skript,
+> um eine, in einem Youtube Video gezeigte,
+> Aufgabe effizienter zu implementieren.
 > 
 > [Repository >>](https://github.com/Lukas412/cotton_ball_game)
