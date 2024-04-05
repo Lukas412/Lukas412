@@ -50,18 +50,20 @@ Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
 
 ### Zig
 
-**Game Of Life**
-
-Eine Implementation von Conway's Game Of Life in Zig.
-
-[Wikipedia >>](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-[Repository >>](https://github.com/Lukas412/GameOfLifeZig)
+> **Game Of Life**
+> 
+> Eine Implementation von Conway's Game Of Life in Zig.
+> 
+> [Wikipedia >>](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+> [Repository >>](https://github.com/Lukas412/GameOfLifeZig)
 
 ## Spaß Projekte
 
-### [CS Flash](https://github.com/Lukas412/cs_flash)
-
-Ein kleines Rust Programm, das in CsGo eine Flash-Bang detektiert.
-Es drückt die `F13` Taste während die Flash-Bang aktiv ist,
-um andere Aktionen am Computer und Hardware auszulösen.
+> **CS Flash**
+> 
+> Ein kleines Rust Programm, das in CsGo eine Flash-Bang detektiert.
+> Es drückt die `F13` Taste während die Flash-Bang aktiv ist,
+> um andere Aktionen am Computer und Hardware auszulösen.
+> 
+> [Repository >>](https://github.com/Lukas412/cs_flash)
 
