@@ -1,10 +1,8 @@
-### Hi there 👋
-
-This is still under construction! 🚧🏗
-
 # Meine Projekte
 
-Eine Sammlung meiner wichtigsten Projekte unter diesem Profil.
+A collection of my most important projects on this profile.
+
+You can find the setup and the usage in the project repositories.
 
 ## Meine Entwicklungsumgebung
 
